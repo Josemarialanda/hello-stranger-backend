@@ -1,0 +1,5 @@
+packages:
+  ./
+
+package hello-stranger-backend
+  tests: True
